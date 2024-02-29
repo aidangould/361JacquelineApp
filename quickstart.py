@@ -4,6 +4,7 @@
 # py -m pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 # run quickstart to authorize app for user; user must be a test user in app
+# this sends updates to users and admin from 361foodapp@gmail.com, password "aidanjacqueline"
 
 import os.path
 
